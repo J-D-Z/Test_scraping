@@ -1,0 +1,4 @@
+https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
+
+
+https://doc.scrapy.org/en/0.10.3/topics/selectors.html
