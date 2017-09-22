@@ -11,6 +11,8 @@ Ceci est un script temporaire.
 #sys.path
 ## Ici on teste cinq librairies conseillées
 
+#HAHAHAHAHAHAHA
+
 
 #%% 1) Essai de la première librairie : requests
 import requests
